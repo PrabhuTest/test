@@ -1,0 +1,5 @@
+START:ZAQ_TEST                      CONSTRUCTOR_METH AUTHOR:ECC0458
+method CONSTRUCTOR.
+"me->x = '2'.
+endmethod.
+FINISH:ZAQ_TEST                      CONSTRUCTOR                                                                     METH
