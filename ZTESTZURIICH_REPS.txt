@@ -1,0 +1,14 @@
+START:ZTESTZURIICH_REPS AUTHOR:ECC0458
+*&---------------------------------------------------------------------*
+*& Report  ZTESTOSCAR
+*&
+*&---------------------------------------------------------------------*
+*&
+*&
+*&---------------------------------------------------------------------*
+
+REPORT  ZTESTZURIICH.
+
+WRITE: 'USER NAME IS?'.
+WRITE: 'a CHANGE DONE AT 5PM
+FINISH:ZTESTZURIICH                                                                                                  REPS
