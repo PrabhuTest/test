@@ -1,0 +1,5 @@
+START TABLE:ZAVRA  AUTHOR:ECC0458
+FIELDNAME:MANDT                           DATA ELEMENT:MANDT                           DATA TYPE:CLNT  DOMAIN:MANDT
+FIELDNAME:NAME                            DATA ELEMENT:NAME                            DATA TYPE:CHAR  DOMAIN:NAME
+FIELDNAME:DATUM                           DATA ELEMENT:DATUM                           DATA TYPE:DATS  DOMAIN:DATUM
+FINISH TABLE:ZAVRA
