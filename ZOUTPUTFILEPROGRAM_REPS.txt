@@ -1,0 +1,14 @@
+START:ZOUTPUTFILEPROGRAM_REPS AUTHOR:ECC0458
+*&---------------------------------------------------------------------*
+*& Report  ZOUTPUTFILEPROGRAM
+*&
+*&---------------------------------------------------------------------*
+*&
+*&
+*&---------------------------------------------------------------------*
+
+REPORT  ZOUTPUTFILEPROGRAM.
+parameters: p1(1).
+write: 'test for Charlie'.
+write: 'test for Pete'.
+FINISH:ZOUTPUTFILEPROGRAM                                                                                            REPS
